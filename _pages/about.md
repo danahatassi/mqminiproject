@@ -6,3 +6,4 @@ author_profile: false
 ---
 
 Dana Atassi
+aldanaatassi@gmail.com
