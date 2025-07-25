@@ -20,6 +20,7 @@ There are two types of cards in the game:
 - Outcome cards only show a measurement outcome. There is no information on the joint state on these cards.
 
 
+
 **Gameplay!**
 
 The deck of cards will be shuffled and placed into rows, facing down. The deck consists of pairs of cards, one card a “Clue” and the other an “Outcome.” Players take turns flipping a clue card first, then an outcome card, attempting to find matching pairs based on the measurement outcomes and the given entangled joint state. 
