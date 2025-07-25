@@ -32,7 +32,7 @@ The deck of cards will be shuffled and placed into rows, facing down. The deck c
 When the two cards are selected, the player will be prompted to answer, “Are these cards a match?” The player is given two choices: yes or no. An incorrect answer here will result in a point loss, regardless of a correct match. 
 
 
-Included in the various joint states are the Bell states (maximally entangled states, where the measurement of one qubit completely determines the outcome of the other). By default, the joint state on clue cards is displayed using both Dirac notation and the respective symbol ($\lvert\Phi^+\rangle$, $\lvert\Psi^+\rangle$, $\lvert\Phi^-\rangle$, $\lvert\Psi^-\rangle$). However, the player can optionally choose to exclude either the Dirac notation or symbols from the Bell state in the game settings for self-inflicted increased difficulty.
+Included in the various joint states are the Bell states (maximally entangled states, where the measurement of one qubit completely determines the outcome of the other). By default, the joint state on clue cards is displayed using both Dirac notation and the respective symbol ($|\Phi^+\rangle$, $|\Psi^+\rangle$, $|\Phi^-\rangle$, $|\Psi^-\rangle$). However, the player can optionally choose to exclude either the Dirac notation or symbols from the Bell state in the game settings for self-inflicted increased difficulty.
 
 
 When the player matches a pair corresponding to a non-Bell entangled state, they will be prompted to answer (in a fraction), “What is the probability of this measurement outcome based on the joint state?” The player is expected to answer the probability of the outcome calculated as the square of the magnitude of the corresponding component in the joint state (Born rule).
