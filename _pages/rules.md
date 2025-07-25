@@ -1,6 +1,7 @@
 ---
 permalink: /rules/
 title: "Game Rules"
+author_profile: false
 ---
 
 **Born to Match**
