@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 My project idea, *Born to Match*, is a card-matching memory game inspired by the classic card memory game and the mathematical technicality involved in quantum entanglement.
