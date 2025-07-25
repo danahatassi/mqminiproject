@@ -39,9 +39,10 @@ If a player makes a correct match, they continue taking turns until they make a 
 
 
 **Scoring System**
-Correct match and answer: +2 points
-Incorrect match: -1 point
-Incorrect match answer: -1 point
-Correct probability answer: +1 point
-Incorrect probability answer: -1 point
+
+- Correct match and answer: +2 points
+- Incorrect match: -1 point
+- Incorrect match answer: -1 point
+- Correct probability answer: +1 point
+- Incorrect probability answer: -1 point
 
