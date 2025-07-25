@@ -9,7 +9,7 @@ title: "Game Rules"
 **Objective**: Score as many points as possible. The cognitive purpose of the game is to reason mathematically about what measurement outcomes can come out from the collapse of an entangled quantum state, and to determine the probabilities of those outcomes.
 
 
-**Disclaimer**: The cards are *NOT* to be interpreted as tensor product factors (since an entangled quantum state cannot be written as a tensor product). All joint states in the game are assumed to be entangled, therefore non-separable, making it forbidden to be written as a tensor product.
+**Disclaimer**: The cards are *NOT* to be interpreted as tensor product factors (since an entangled quantum state cannot be written as a tensor product). All joint states in the game are assumed to be entangled and therefore non-separable.
 
 
 The game can be played solo or with multiple players. 
