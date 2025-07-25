@@ -13,7 +13,7 @@ This idea of mine came very indirectly from when I was on the verge of crashing 
 The classic memory game (a.k.a. concentration) is a simple card game where cards are laid face down and flipped over two at a time to find matching pairs. I wanted to redevelop this game in a way that could help the abstract concepts of entanglement and wavefunction collapse be more intuitive. This is why my game idea is designed to allow people to reason through the concepts through practice in recognizing quantum states and using the Born rule to determine the probability of outcomes.
 
 ## References
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/lFT2hwsCMls?si=XLJKBa_SXol_bQ_D](https://www.youtube.com/watch?v=VHlqY44fOg0)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHlqY44fOg0?si=ncti7UqUHit834us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Mathematics of Qubits Lecture](https://docs.google.com/presentation/d/1pi_6498MqlfkSN3ZbfHY6kDRTPE2QkZzAT8bSr8HxHQ/edit?slide=id.g36a4fa07a6c_0_223#slide=id.g36a4fa07a6c_0_223)
 [Entanglement and Quantum Weirdness Lecture](https://drive.google.com/file/d/1goI9iI8Eln5AFBIE-YvFLN6N5-Lk3go9/view)
