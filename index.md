@@ -30,4 +30,4 @@ Probability - Born rule
 Tools: Python and likely Pygame to develop the game in interactive 2D graphics
 
 ## Goals
-I’m not sure how this project exactly relates to my future, but I do know that I enjoy implementing creativity in technical subjects in ways that I know will bring societal benefit. MathQuantum provided me with valuable exposure to sectors in quantum science that I was previously unfamiliar with. Although it left me more conflicted about which path to follow, gaining exposure to so many subfields made me much more informed. I appreciate having a wider range of options to explore and research now.
+I’m not sure how this project exactly relates to my future, but I'm interested in studying computer science, physics, and some more math. MathQuantum provided me with valuable exposure to sectors in quantum science that I was previously unfamiliar with. Although it left me more conflicted about which path to follow, gaining exposure to so many subfields made me much more informed. I appreciate having a wider range of options to explore and research now, and I look forward to any new opportunities in my future.
