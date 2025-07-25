@@ -3,6 +3,7 @@ permalink: /rules/
 title: "Game Rules"
 layout: single
 author_profile: false
+mathjax: true
 ---
 
 **Born to Match**
